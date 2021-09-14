@@ -651,6 +651,7 @@ div h2 {
   .main .container .main-content p {
     color: #000;
     font-size: 1.6rem;
+    width: auto;
   }
   .main .container .main-numbers {
     display: none;
