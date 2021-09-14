@@ -1550,8 +1550,9 @@ div h2 {
   .prices .container .prices-wrapper .active .price-desc p {
     display: block;
   }
-  .prices .container .btn-main {
+  .btn-main {
     margin-bottom: 2rem;
+    padding: 0 4.5rem;
   }
 }
 .partners {
